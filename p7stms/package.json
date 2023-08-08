@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "i": "^0.3.7",
+    "inquirer": "^9.2.10",
+    "npmi": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "name": "p7stms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
